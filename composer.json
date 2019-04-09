@@ -1,0 +1,21 @@
+{
+    "name": "vendor/quetetwig",
+    "description": "quetetwig",
+    "type": "project",
+    "require": {
+        "twig/twig": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+   },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "madbrain67",
+            "email": "ferrerofranck@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
